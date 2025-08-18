@@ -1,0 +1,9 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Data Analytics"
+    url: /posts/
+  - title: "Curriculum"
+    url: /gallery/
+  - title: "Ceramics"
+    url: /recipes/
