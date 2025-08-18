@@ -41,11 +41,11 @@ comments:
 
 # Footer “Follow” links (GitHub + Feed)
 author:
-  name: "Your Name"
+  name: "Adam Alsamadisi"
   links:
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/your-handle"
+      url: "https://github.com/adam-alsamadisi"
 
 # Feed footer link is included by the theme automatically; customize if you host elsewhere:
 # atom_feed:
