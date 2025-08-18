@@ -1,7 +1,7 @@
 title: "Adam Alsamadisi"
 name: "Adam Alsamadisi"
 description: "I'm a teacher who loves meaningful tech integration and meaningful tech-free tinkering! Here to share code, teaching resources, and ceramic creations!"
-url: "https://adam-alsamadisi.github.io"
+url: "https://adamalsamadisi.github.io"
 
 # Theme
 remote_theme: "mmistakes/minimal-mistakes@latest"
@@ -45,7 +45,7 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/adam-alsamadisi"
+      url: "https://github.com/adamalsamadisi"
 
 # Feed footer link is included by the theme automatically; customize if you host elsewhere:
 # atom_feed:
