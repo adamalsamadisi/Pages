@@ -4,7 +4,7 @@ description: "I'm a teacher who loves meaningful tech integration and meaningful
 url: "https://adamalsamadisi.github.io"
 
 # Theme
-remote_theme: "mmistakes/minimal-mistakes@latest"
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 # Plugins
 plugins:
