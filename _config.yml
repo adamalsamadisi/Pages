@@ -11,7 +11,9 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
-
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  
 # Theme options
 minimal_mistakes_skin: "default"
 locale: "en-US"
